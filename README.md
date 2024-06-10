@@ -11,3 +11,5 @@ Vite: A fast build tool and development server.
 Features
 Project Management: Create and manage projects.
 Task Management: Add, update, delete and track tasks within projects.
+
+<img width="901" alt="Screenshot 2024-06-10 at 3 50 44 PM" src="https://github.com/dasha12345-s/Project-Management/assets/69845155/c23a769c-f358-493e-b655-9307f62f2385">
