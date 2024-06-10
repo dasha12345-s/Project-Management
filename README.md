@@ -18,5 +18,10 @@ This project is a web-based application for managing projects. It uses modern we
 
 **Starting page:**
 <img width="1080" alt="Screenshot 2024-06-10 at 3 54 00 PM" src="https://github.com/dasha12345-s/Project-Management/assets/69845155/a1c485d5-918f-4d7e-81bc-9988108ebfb6">
+
 **Create a New Project page:**
 <img width="901" alt="Screenshot 2024-06-10 at 3 50 44 PM" src="https://github.com/dasha12345-s/Project-Management/assets/69845155/c23a769c-f358-493e-b655-9307f62f2385">
+
+**Error page**
+Displays when the save button is clicked with an empty input field.
+<img width="660" alt="Screenshot 2024-06-10 at 4 32 38 PM" src="https://github.com/dasha12345-s/Project-Management/assets/69845155/66215eb1-729f-4f13-82ba-49c65e4d9115">
