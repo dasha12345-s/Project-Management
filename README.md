@@ -24,4 +24,8 @@ This project is a web-based application for managing projects. It uses modern we
 
 **Error page** <br>
 Displays when the save button is clicked with an empty input field.
-<img width="660" alt="Screenshot 2024-06-10 at 4 32 38 PM" src="https://github.com/dasha12345-s/Project-Management/assets/69845155/66215eb1-729f-4f13-82ba-49c65e4d9115">
+<img width="559" alt="Screenshot 2024-06-10 at 4 41 45 PM" src="https://github.com/dasha12345-s/Project-Management/assets/69845155/c18339d8-ca48-484e-91b2-9279dc548b50">
+
+**Project Added** <br>
+<img width="923" alt="Screenshot 2024-06-10 at 4 44 03 PM" src="https://github.com/dasha12345-s/Project-Management/assets/69845155/70ea4c97-4323-4d69-9cc7-a7783e676d8b">
+
