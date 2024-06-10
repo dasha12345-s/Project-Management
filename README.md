@@ -7,8 +7,8 @@ This project is a web-based application for managing projects. It uses modern we
 
 **Technologies Used**
 
-<br>`**React:** A JavaScript library for building user interfaces.<br>`
-<br>`**Tailwind CSS:** A utility-first CSS framework for styling.<br>`
+**React:** A JavaScript library for building user interfaces.<br>
+**Tailwind CSS:** A utility-first CSS framework for styling.<br>`
 <br>`**Vite:** A fast build tool and development server.<br>`
 
 **Features**
