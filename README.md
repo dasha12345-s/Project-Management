@@ -8,13 +8,13 @@ This project is a web-based application for managing projects. It uses modern we
 **Technologies Used**
 
 **React:** A JavaScript library for building user interfaces.<br>
-**Tailwind CSS:** A utility-first CSS framework for styling.<br>`
-<br>`**Vite:** A fast build tool and development server.<br>`
+**Tailwind CSS:** A utility-first CSS framework for styling.<br>
+**Vite:** A fast build tool and development server.<br>
 
 **Features**
 
-**Project Management:** Create and manage projects.
-**Task Management:** Add, update, delete and track tasks within projects.
+**Project Management:** Create and manage projects.<br>
+**Task Management:** Add, update, delete and track tasks within projects.<br>
 
 **Starting page:**
 <img width="1080" alt="Screenshot 2024-06-10 at 3 54 00 PM" src="https://github.com/dasha12345-s/Project-Management/assets/69845155/a1c485d5-918f-4d7e-81bc-9988108ebfb6">
